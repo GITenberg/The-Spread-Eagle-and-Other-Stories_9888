@@ -1,0 +1,29 @@
+_repo: The-Spread-Eagle-and-Other-Stories_9888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Gouverneur
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1721'
+    url: http://www.gutenberg.org/2009/agents/1721
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: The spread eagle -- Targets -- The boot -- The despoiler -- One more
+  martyr -- "Ma'am?" -- Mr. Holiday -- White muscats of Alexandria -- Without a lawyer
+  -- The "Monitor" and the "Merrimac" -- The McTavish -- The parrot -- On the spot;
+  or, The idler's house-party.
+title: The Spread Eagle and Other Stories
+url: http://www.gutenberg.org/ebooks/9888
